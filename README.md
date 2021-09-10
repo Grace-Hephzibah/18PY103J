@@ -1,4 +1,4 @@
-# 18MES103L
+# 18PY103L
 This is a collection of notes and information from my BTech course.
 ### Check out the other repos here : <a href = "https://github.com/Grace-Hephzibah/SRM-B.Tech-Notes"> Index Page </a>
 
